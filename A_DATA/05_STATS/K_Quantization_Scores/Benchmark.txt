@@ -1,0 +1,8 @@
+Model: Base/ Quantization: fp32/ Batchsize: 16/ Duration: 0.00049345/ Memory: 1109.85MB/ vRAM: 7824MiB
+Model: Base/ Quantization: fp16/ Batchsize: 16/ Duration: 0.00049759/ Memory: 554.93MB/ vRAM: 4494MiB
+Model: Base/ Quantization: int8/ Batchsize: 16/ Duration: 0.00426438/ Memory: 470.0MB/ vRAM: 5098MiB
+Model: Base/ Quantization: int4/ Batchsize: 16/ Duration: 0.00121438/ Memory: 427.53MB/ vRAM: 5942MiB
+Model: Large/ Quantization: fp32/ Batchsize: 16/ Duration: 0.00096408/ Memory: 2235.42MB/ vRAM: 18488MiB
+Model: Large/ Quantization: fp16/ Batchsize: 16/ Duration: 0.00096838/ Memory: 1117.71MB/ vRAM: 10478MiB
+Model: Large/ Quantization: int8/ Batchsize: 16/ Duration: 0.0092402/ Memory: 815.72MB/ vRAM: 11222MiB
+Model: Large/ Quantization: int4/ Batchsize: 16/ Duration: 0.00271956/ Memory: 664.73MB/ vRAM: 13812MiB
