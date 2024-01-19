@@ -1,0 +1,13 @@
+{
+    "O": 0,
+    "B-BEHÖRDE": 1,
+    "I-BEHÖRDE": 2,
+    "B-POLITIKER": 3,
+    "I-POLITIKER": 4,
+    "B-MEDIEN": 5,
+    "I-MEDIEN": 6,
+    "B-PARTEI": 7,
+    "I-PARTEI": 8,
+    "B-JOURNALIST": 9,
+    "I-JOURNALIST": 10
+}

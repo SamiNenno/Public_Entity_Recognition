@@ -1,0 +1,36 @@
+{
+    "Bundestag": [
+    "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Deutschen_Bundestages_(15._Wahlperiode)",
+    "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Deutschen_Bundestages_(16._Wahlperiode)",
+    "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Deutschen_Bundestages_(17._Wahlperiode)",
+    "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Deutschen_Bundestages_(18._Wahlperiode)",
+    "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Deutschen_Bundestages_(19._Wahlperiode)",
+    "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Deutschen_Bundestages_(20._Wahlperiode)"
+    ],
+    "Landtag":[
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Bayerischen_Landtags_(18._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtags_von_Baden-W%C3%BCrttemberg_(17._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Abgeordnetenhauses_von_Berlin_(18._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtags_Brandenburg_(7._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_der_Hamburgischen_B%C3%BCrgerschaft_(21._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Hessischen_Landtags_(20._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_Mecklenburg-Vorpommern_(8._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_S%C3%A4chsischen_Landtags_(7._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_von_Sachsen-Anhalt_(8._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_des_Saarlandes_(17._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_Schleswig-Holstein_(19._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_der_Bremischen_B%C3%BCrgerschaft_(20._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Th%C3%BCringer_Landtags_(7._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_Nordrhein-Westfalen_(18._Wahlperiode) ",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Landtages_Rheinland-Pfalz_(18._Wahlperiode)",
+        "https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Nieders%C3%A4chsischen_Landtages_(18._Wahlperiode)"
+    ],
+    "Behörde":"https://de.wikipedia.org/wiki/Bundesbeh%C3%B6rde_(Deutschland)",
+    "Verfassungsorgane":{
+        "Deutscher Bundestag":"https://de.wikipedia.org/wiki/Deutscher_Bundestag",
+        "Bundesrat":"https://de.wikipedia.org/wiki/Bundesrat_(Deutschland)",
+        "Bundespräsident":"https://de.wikipedia.org/wiki/Bundespr%C3%A4sident_(Deutschland)",
+        "Bundesregierung":"https://de.wikipedia.org/wiki/Bundesregierung_(Deutschland)",
+        "Bundesverfassungsgericht":"https://de.wikipedia.org/wiki/Bundesverfassungsgericht"
+    }
+}
